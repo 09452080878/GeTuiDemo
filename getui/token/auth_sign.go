@@ -1,10 +1,10 @@
 package token
 
 import (
-	util "GetuiDemo/getui/util"
 	"crypto/sha256"
 	"encoding/json"
 	"fmt"
+	util "github.com/09452080878/GetuiDemo/getui/util"
 	"strconv"
 	"time"
 )

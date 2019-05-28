@@ -1,21 +1,21 @@
 package main
 
 import (
-	"GetuiDemo/getui/push"
-	"GetuiDemo/getui/query"
-	"GetuiDemo/getui/style"
-	"GetuiDemo/getui/token"
-	"GetuiDemo/getui/tool"
+	"github.com/09452080878/GetuiDemo/getui/push"
+	"github.com/09452080878/GetuiDemo/getui/query"
+	"github.com/09452080878/GetuiDemo/getui/style"
+	"github.com/09452080878/GetuiDemo/getui/token"
+	"github.com/09452080878/GetuiDemo/getui/tool"
 	"log"
 	"time"
 )
 
 var (
-	appId        string = "4hva40KrHd9aGZaIVjG9S2"
-	appKey       string = "pobcc0EKOP8Eq6MRu7uV8A"
-	appSecret    string = "A3tbszbNpJAHD3iObCQl4A"
-	masterSecret string = "AOPHaK7F3yAqiNKe62hHd3"
-	cid          string = "d40cd1f6052824d37d2811425e5504a2"
+	appId        string = "XH93kDE2AZ6x3pCGwEQNn"
+	appKey       string = "mL0IIpwukX53MGE4BjZjs1"
+	appSecret    string = "KUp3G7LC6V98fZsUdeTGO5"
+	masterSecret string = "tT1khrhlup8vskHi5iVpk4"
+	cid          string = "45f8a382f93b018a4ba4b5cb6c497cc0"
 )
 
 func main() {

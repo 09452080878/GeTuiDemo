@@ -1,8 +1,8 @@
 package query
 
 import (
-	util "GetuiDemo/getui/util"
 	"encoding/json"
+	util "github.com/09452080878/GetuiDemo/getui/util"
 )
 
 type UserStatusResult struct {

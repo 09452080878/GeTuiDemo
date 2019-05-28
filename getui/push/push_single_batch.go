@@ -1,9 +1,9 @@
 package push
 
 import (
-	tool "GetuiDemo/getui/tool"
-	util "GetuiDemo/getui/util"
 	"encoding/json"
+	tool "github.com/09452080878/GetuiDemo/getui/tool"
+	util "github.com/09452080878/GetuiDemo/getui/util"
 )
 
 type PushSigleBatchResult struct {
